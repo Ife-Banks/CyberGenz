@@ -1,5 +1,6 @@
 import logo from '../img/logo.png';
 import { motion } from "framer-motion";
+import { LazyLoadImage } from 'react-lazy-load-image-component';
 const navigate = () => {
     return (
         <motion.div 

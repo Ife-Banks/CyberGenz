@@ -1,5 +1,6 @@
 import Navigate from './nav';
 import { motion } from "framer-motion";
+import { LazyLoadImage } from 'react-lazy-load-image-component';
 const Hero = () => {
     return ( 
         <div className='flex flex-col overflow-hidden relative items-center'>
