@@ -12,7 +12,7 @@ const navigate = () => {
             opacity:1
         }}
         transition={{
-            duration:1.5,
+            duration:1.0,
             delay:2,
             type:'tween',
             stiffness:120
